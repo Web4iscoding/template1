@@ -6,4 +6,4 @@ stored on github repo as backup
 ---------------------------------------------
 made with vanilla js, threejs and vite
 
-*please refer to npm run dev command with opening vite live server
+*please refer to npm run dev command for opening the vite live server
